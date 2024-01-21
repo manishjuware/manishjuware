@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm Manish</h1>
-<h3 align="center">A passionate MERN stack developer</h3>
 <h5 align="center">  
- Exploring new challenges and innovative tech that pushes the boundaries of the web.<br/>
- Collaborating with fellow developers to create something epic together. 
+ I love to work in Java & Javascript and learn new tools & tech, best suited for the job at hand. 
+<br/> 
+ Honing my skills, by building dynamic web projects using React.js, Node.js, MongoDB & SpringBoot.
 </h5>
 
 
@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">Always on the lookout for</h3>
 <p align="center"> 
-Fresh challenges and opportunities to hone my skills. <br/>
-New technologies to keep my coding fire burning bright. 
+Fresh challenges and opportunities to hone my skills, <br/>
+and keep my coding fire burning bright. 
 </p>
 
 <h3 align="center">Connect with me</h3>
@@ -62,5 +62,5 @@ New technologies to keep my coding fire burning bright.
 
 
 <h3 align="center">
-  💥 This is just the beginning, keep learning & keep growing! 💥
+  💥 Keep learning & keep growing! 💥
 </h3>
